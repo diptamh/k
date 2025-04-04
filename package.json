@@ -2,7 +2,7 @@
     "name": "koko",
     "version": "1.0.0",
     "engines": {
-        "node": "18.x",     // or 20.x if you prefer LTS
+        "node": "18.x",
         "npm": "9.x"
     },
     "scripts": {
