@@ -1,1 +1,1 @@
-web: http-server . -p $PORT
+web: npx http-server . -p $PORT
