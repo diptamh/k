@@ -1,11 +1,11 @@
 {
     "name": "koko",
     "version": "1.0.0",
-   "scripts": {
+    "scripts": {
         "start": "node server.js"
     },
     "description": "A simple Node.js server",
     "dependencies": {
-      "http-server": "^14.1.1"
+        "http-server": "^14.1.1"
     }
-  }
+}
