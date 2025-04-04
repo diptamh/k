@@ -1,6 +1,10 @@
 {
     "name": "koko",
     "version": "1.0.0",
+    "engines": {
+        "node": "18.x",     // or 20.x if you prefer LTS
+        "npm": "9.x"
+    },
     "scripts": {
         "start": "node server.js"
     },
